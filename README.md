@@ -1,11 +1,11 @@
-About r-evaluate
-================
+About r-evaluate-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-evaluate-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-lib/evaluate
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-evaluate-feedstock/blob/main/LICENSE.txt)
 
 Summary: Parsing and evaluation tools that make it easy to recreate the command line behaviour of R.
 
